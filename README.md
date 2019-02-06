@@ -1,4 +1,4 @@
-# PYTHON AND JENKINS
+# PYTHON AND DJANGO
 
 ## Create a local project
 * Create a project with your IDE (suggested PyCharm)
