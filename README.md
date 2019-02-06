@@ -83,5 +83,3 @@ urlpatterns = [
     ...
 ]
 ```
-
-## Link project to a new Github repo
